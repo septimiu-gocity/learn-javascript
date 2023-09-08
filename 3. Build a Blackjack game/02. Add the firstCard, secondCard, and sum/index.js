@@ -16,9 +16,3 @@ if (sum < 21) {
     console.log("You're out!");
 }
 
-let age = 22;
-
-if (age <= 21) console.log("You cant enter the club");
-else console.log("Have fun!");
-
-console.log(sum)

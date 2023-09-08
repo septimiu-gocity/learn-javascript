@@ -1,5 +1,5 @@
 body {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", Arial, sans-serif;
     background-image: url("images/table.png");
     background-size: cover;
     font-weight: bold;
@@ -21,7 +21,14 @@ text color - #016f32
 width      - 150px
 background - goldenrod
  */
- 
-button {
 
+button {
+    width: 150px;
+    background-color: goldenrod;
+    color: #016f32;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
 }
